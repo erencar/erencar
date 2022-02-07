@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Cyber Security Researcher.</h1>
+    <h1>Cyber Security Researcher</h1>
 </div>
 
 <div align="center">
